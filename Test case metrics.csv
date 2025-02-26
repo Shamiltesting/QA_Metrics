@@ -1,0 +1,12 @@
+,,,,,,,
+,Процент выполнения тестов (Test Execution Rate),,,,Скорость выполнения тестов (Test Execution Speed),,X number tests
+,Test Completion % =,Number of tests performed,X 100,,,,
+,,Total number of tests,,,Test Coverage Review Rate,,
+,,,,,Количество ревью, = Частота ревью тестов и требований,
+,Процент пройденных тестов (Pass Rate),,,,Количество спринтов/релизов,,
+,%  of tests passed =,Passed tests,X 100,,,,
+,,Number of executed tests,,,,,
+,,,,,,,
+,Уровень отказов тестов (Failure tests Rate),,,,,,
+,Failure Rate =,Number of Failures,X 100,,,,
+,,Number of executed tests,,,,,

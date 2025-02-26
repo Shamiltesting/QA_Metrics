@@ -1,0 +1,29 @@
+,Reducing critical inconsistencies metric,,,,,,
+,Critical bugs before − Critical bugs after,X 100, = %,,Bug Priority metric,,
+,Critical bugs before,,,,Number of defects found =,X number bugs,
+,"For example:
+In January found 30 critical bugs. After improving 
+process, number of critical bugs decreased to 26",,,,Number of  Hight priority bugs=,X number bugs,
+,,,,,Number of  Medium priority bugs=,X number bugs,
+,30 bugs − 26 bugs,X 100, =  13.33%,,Number of  Low priority bugs=,X number bugs,
+,30 bugs,,,,,,
+,,,,,"Bug Severity metric
+",,
+,Плотность дефектов (Defect Density),,,,Number of  Blocked priority bugs=,X number bugs,
+,Defect Density =,Number of Defects,X 100,,Number of Critical priority bugs=,X number bugs,
+,,"Product Size (lines of code, modules)",,,Number of Major priority bugs=,X number bugs,
+,,,,,Number of Minor defects found =,X number bugs,
+,Процент повторных дефектов (Defect Reopen Rate),,,,Number of Trivial defects found =,X number bugs,
+,Percentage of repeat defects =,Number of reopened defects,X 100,,,,
+,,Total number of closed defects,,,Процент багов высокого приоритета (Percentage of high priority bugs),,
+,,,,,Hight priority in %,Number of  Hight priority bugs,X 100
+,"Эффективность обнаружения дефектов (Defect Detection Efficiency, DDE)",,,,,Total number of defects,
+,DDE=,Number of defects found before release,X 100,,,,
+,,Total number of defects,,,Процент багов Blocked/Critical (Percentage of bugs blocked and Critical severity),,
+,,,,,Blocked/Critical in %,Number of Blocked/Critical bugs,X 100
+,Время на исправление дефектов (Defect Fix Time),,,,,Total number of defects,
+,Average time to fix =,Total time to fix,,,,,
+,,Number of defects fixed,,,,,
+,,,,,,,
+,Дефекты в Prode после релиза (Hotfixes),,,,,,
+,Release № ,Number of bugs on PROD ,,,,,

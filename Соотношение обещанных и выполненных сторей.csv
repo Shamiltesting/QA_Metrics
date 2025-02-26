@@ -1,0 +1,8 @@
+,,,,,,,
+,Соотношение обещанных и выполненных сторей(The ratio of committed to completed stories),,,,,,
+,Sprint №,Обещанные стори,Executed storys ,Migrated storys,Executed %,Есть зависимые сторис?,Возможные дефекты?
+,1,7,3,4,42.85%,YES,Hight risk
+,2,8,6,2,75%,NO,Low risk
+,3,12,8,4,66.66%,YES,Maybe bugs
+,4,4,3,1,75%,YES,Low risk
+,5,5,5,-,100%,NO,Minimum risk
